@@ -31,10 +31,10 @@ $ SODIUM_INSTALL=system pip2 install pynacl
 ```
 or you have another error, please submit a new issue.
 
-# Screenshot  o
-![Screenshot](https://raw.githubusercontent.com/kuburan/txtool/master/screenshot/Screenshot_a.png)  
-![Screenshot](https://raw.githubusercontent.com/kuburan/txtool/master/screenshot/Screenshot_b.png)  
-![Screenshot](https://raw.githubusercontent.com/kuburan/txtool/master/screenshot/Screenshot_c.png)  
+# Screenshot  
+![Screenshot](https://raw.githubusercontent.com/ZheHacK/zhetools/master/screenshot/Screenshot_a.png)  
+![Screenshot](https://raw.githubusercontent.com/ZheHacK/zhetools/master/screenshot/Screenshot_b.png)  
+![Screenshot](https://raw.githubusercontent.com/ZheHacK/zhetools/master/screenshot/Screenshot_c.png)  
   
 # Contact  
 zhehacindo@gmail.com
